@@ -78,9 +78,7 @@ Durante el proyecto participé en distintas etapas del análisis funcional:
 - Diagramas de secuencia.
 - Análisis de procesos con múltiples roles.
 - Adaptación funcional de un producto a diferentes mercados.
-```
 
----
 
 ## Migración y Mejora de Sistema de Gestión de Deuda
 
@@ -126,7 +124,6 @@ Mi participación estuvo principalmente enfocada en el análisis funcional y aco
 - Documentación funcional.
 - Evolución de funcionalidades existentes.
 - Acompañamiento funcional durante la implementación.
-```
 
 ---
 
