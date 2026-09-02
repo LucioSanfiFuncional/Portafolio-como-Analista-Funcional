@@ -33,11 +33,52 @@ Este portfolio reúne una selección de proyectos y casos en los que participé,
 
 En esta sección se presentan diferentes casos de estudio basados en proyectos en los que participé.
 
-### Proyecto 01 — Próximamente
+## Suite de Facturación para Prepagas y Aseguradoras
 
-Breve descripción del proyecto.
+**Empresa:** Conexia  
+**Rol:** Analista Funcional  
+**Duración:** 1 año y 6 meses  
+**Alcance:** Argentina y Colombia
 
-[Ver proyecto](#)
+### Contexto
+
+Participé como Analista Funcional en una suite destinada a la gestión del proceso de facturación para empresas de medicina prepaga y aseguradoras.
+
+La solución contemplaba un flujo completo de facturación compuesto por diferentes estados y la participación de múltiples roles, entre ellos auditores y profesionales médicos, que intervenían en distintas instancias del análisis y validación de las facturas.
+
+Trabajé sobre el mismo producto para implementaciones correspondientes a **Argentina y Colombia**, lo que implicó analizar y comprender las particularidades normativas y reglas de negocio de cada país.
+
+### Principal desafío
+
+Uno de los principales desafíos del proyecto fue comprender las reglas de negocio correspondientes al mercado colombiano y analizar sus diferencias respecto del funcionamiento utilizado en Argentina.
+
+Esto requirió adaptar requerimientos y comportamientos funcionales de la solución de acuerdo con las necesidades y particularidades de cada contexto, manteniendo al mismo tiempo la coherencia general del producto.
+
+### Mi participación
+
+Durante el proyecto participé en distintas etapas del análisis funcional:
+
+- Relevamiento inicial de necesidades y requerimientos.
+- Análisis y documentación de reglas de negocio.
+- Transformación de reglas de negocio en requerimientos funcionales y no funcionales.
+- Elaboración y refinamiento de historias de usuario.
+- Análisis de flujos de facturación y transición entre estados.
+- Modelado mediante diagramas de estados.
+- Modelado de interacciones mediante diagramas de secuencia.
+- Trabajo sobre requerimientos correspondientes a implementaciones de Argentina y Colombia.
+
+### Competencias aplicadas
+
+- Relevamiento de requerimientos.
+- Análisis funcional.
+- Análisis de reglas de negocio.
+- Historias de usuario.
+- Requerimientos funcionales y no funcionales.
+- Diagramas de estados.
+- Diagramas de secuencia.
+- Análisis de procesos con múltiples roles.
+- Adaptación funcional de un producto a diferentes mercados.
+```
 
 ---
 
