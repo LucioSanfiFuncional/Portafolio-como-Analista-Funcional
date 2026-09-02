@@ -1,12 +1,16 @@
-# Portafolio-como-Analista-Funcional
-Portafolio profesional como Analista Funcional. Incluye proyectos, historias de usuario, documentación funcional, diagramas y experiencia en APIs y metodologías ágiles.
+# Portfolio de Análisis Funcional — Lucio Sanfilippo
+
+Portfolio profesional como Analista Funcional. Incluye una selección de proyectos, experiencias de relevamiento, documentación funcional, modelado de procesos e integraciones entre sistemas.
+
+---
 
 ## Sobre mí
 
 Soy **Analista Funcional de Sistemas**, con experiencia participando en proyectos de distintos rubros y características.
-Al día de hoy 02-09-2026 me quedan tres meses para recibirme de la carrera de Técnico en Análisis funcional de sistemas informaticos.
 
-Mi trabajo se centra en comprender las necesidades del negocio, relevar procesos, identificar problemáticas y transformar esos requerimientos en definiciones funcionales claras que puedan ser utilizadas por los equipos de desarrollo, QA y otros stakeholders involucrados.
+A septiembre de 2026, me encuentro a aproximadamente **tres meses de finalizar la carrera de Técnico en Análisis Funcional de Sistemas Informáticos**.
+
+Mi trabajo se centra en comprender las necesidades del negocio, relevar procesos, identificar problemáticas y transformar esos requerimientos en definiciones funcionales claras que puedan ser utilizadas por los equipos de Desarrollo, QA y otros stakeholders involucrados.
 
 Este portfolio reúne una selección de proyectos y casos en los que participé, con el objetivo de mostrar no solamente los resultados obtenidos, sino también **mi forma de analizar problemas y trabajar como Analista Funcional**.
 
@@ -33,7 +37,9 @@ Este portfolio reúne una selección de proyectos y casos en los que participé,
 
 En esta sección se presentan diferentes casos de estudio basados en proyectos en los que participé.
 
-## Suite de Facturación para Prepagas y Aseguradoras
+---
+
+## Suite de Facturación para el Sector Salud
 
 **Empresa:** Conexia  
 **Rol:** Analista Funcional  
@@ -42,11 +48,11 @@ En esta sección se presentan diferentes casos de estudio basados en proyectos e
 
 ### Contexto
 
-Participé como Analista Funcional en una suite destinada a la gestión del proceso de facturación para empresas de medicina prepaga y aseguradoras.
+Participé como Analista Funcional en una suite destinada a la gestión de procesos de facturación dentro del sector salud.
 
-La solución contemplaba un flujo completo de facturación compuesto por diferentes estados y la participación de múltiples roles, entre ellos auditores y profesionales médicos, que intervenían en distintas instancias del análisis y validación de las facturas.
+La solución contemplaba un flujo completo compuesto por diferentes estados y la participación de múltiples roles, entre ellos auditores y profesionales médicos, que intervenían en distintas instancias del análisis y validación de las facturas.
 
-Trabajé sobre el mismo producto para implementaciones correspondientes a **Argentina y Colombia**, lo que implicó analizar y comprender las particularidades normativas y reglas de negocio de cada país.
+Trabajé sobre el mismo producto para implementaciones correspondientes a **Argentina y Colombia**, lo que implicó analizar y comprender las reglas de negocio y particularidades operativas de cada país.
 
 ### Principal desafío
 
@@ -62,7 +68,7 @@ Durante el proyecto participé en distintas etapas del análisis funcional:
 - Análisis y documentación de reglas de negocio.
 - Transformación de reglas de negocio en requerimientos funcionales y no funcionales.
 - Elaboración y refinamiento de historias de usuario.
-- Análisis de flujos de facturación y transición entre estados.
+- Análisis de flujos y transición entre estados.
 - Modelado mediante diagramas de estados.
 - Modelado de interacciones mediante diagramas de secuencia.
 - Trabajo sobre requerimientos correspondientes a implementaciones de Argentina y Colombia.
@@ -79,6 +85,7 @@ Durante el proyecto participé en distintas etapas del análisis funcional:
 - Análisis de procesos con múltiples roles.
 - Adaptación funcional de un producto a diferentes mercados.
 
+---
 
 ## Migración y Mejora de Sistema de Gestión de Deuda
 
@@ -87,15 +94,15 @@ Durante el proyecto participé en distintas etapas del análisis funcional:
 
 ### Contexto
 
-Participé en la migración de un sistema utilizado para la gestión y negociación de deuda de clientes en mora.
+Participé en la migración de un sistema utilizado para la gestión y negociación de deuda de clientes.
 
-La solución estaba orientada principalmente a acompañar el proceso de negociación, permitiendo aplicar diferentes alternativas y niveles de descuento según las condiciones particulares de cada cliente.
+La solución contemplaba diferentes alternativas de gestión definidas a partir de reglas de negocio y condiciones particulares de cada caso.
 
 El proyecto consistió en reemplazar una versión anterior del sistema por una nueva solución, manteniendo las funcionalidades necesarias para la operación e incorporando mejoras funcionales durante el proceso de migración.
 
 ### Principal desafío
 
-Uno de los principales desafíos fue comprender el funcionamiento del sistema existente y acompañar su evolución hacia una nueva versión sin perder las reglas de negocio necesarias para el proceso de negociación de deuda.
+Uno de los principales desafíos fue comprender el funcionamiento del sistema existente y acompañar su evolución hacia una nueva versión sin perder las reglas de negocio necesarias para el proceso.
 
 Además de trasladar funcionalidades existentes, participé en el análisis y propuesta de mejoras sobre distintos comportamientos del sistema, buscando optimizar la operatoria y adaptar la nueva versión a las necesidades detectadas durante la implementación.
 
@@ -109,7 +116,7 @@ Mi participación estuvo principalmente enfocada en el análisis funcional y aco
 - Participación en la implementación de la nueva solución.
 - Elaboración y refinamiento de historias de usuario.
 - Documentación funcional de los cambios realizados.
-- Elaboración de diagramas para representar los flujos y funcionalidades implementadas durante la migración.
+- Elaboración de diagramas para representar flujos y funcionalidades implementadas durante la migración.
 - Trabajo conjunto con el equipo para reflejar funcionalmente las modificaciones realizadas sobre el sistema.
 
 ### Competencias aplicadas
@@ -127,24 +134,24 @@ Mi participación estuvo principalmente enfocada en el análisis funcional y aco
 
 ---
 
-## Gestión de Cotización y Márgenes para Artículos Importados
+## Gestión de Variables Económicas y Márgenes
 
 **Empresa:** On City  
 **Rol:** Analista Funcional
 
 ### Contexto
 
-Participé desde el inicio en un proyecto orientado a mejorar la gestión de precios de artículos importados, cuyo costo y margen de ganancia se ven afectados por las variaciones en la cotización del dólar.
+Participé desde el inicio en un proyecto orientado a mejorar el análisis de variables económicas que impactan sobre determinados productos y sus márgenes.
 
-La solución debía permitir obtener automáticamente la cotización desde otro sistema y, al mismo tiempo, brindar al usuario la posibilidad de ingresar una cotización de forma manual cuando fuera necesario.
+La solución permitía incorporar información proveniente de otros sistemas y contemplar distintos escenarios para analizar cómo determinadas variaciones podían afectar los márgenes del negocio.
 
-A partir de estos valores, el sistema ofrecía información sobre el impacto de la cotización en los márgenes de ganancia de los artículos importados, facilitando el análisis previo a una posible modificación de precios.
+A partir de esta información, los usuarios podían contar con métricas que facilitaran la evaluación de posibles decisiones comerciales.
 
 ### Principal desafío
 
-Uno de los principales desafíos fue transformar una necesidad de negocio vinculada a la variación del tipo de cambio en una solución funcional que permitiera combinar información proveniente de otro sistema con valores ingresados manualmente por los usuarios.
+Uno de los principales desafíos fue transformar una necesidad de negocio relacionada con variables económicas externas en una solución funcional que integrara información proveniente de distintas fuentes.
 
-Además, era necesario definir cómo presentar el impacto de las distintas cotizaciones sobre los márgenes de los productos, de forma que los usuarios contaran con información suficiente para evaluar si correspondía aumentar, reducir o mantener los precios.
+Además, fue necesario analizar qué información y métricas debían presentarse para que los usuarios pudieran interpretar correctamente el impacto de diferentes escenarios sobre los productos alcanzados por el proceso.
 
 ### Mi participación
 
@@ -152,12 +159,11 @@ Participé como Analista Funcional durante todo el ciclo del proyecto:
 
 - Relevamiento inicial con los stakeholders.
 - Identificación y análisis de necesidades de negocio.
-- Análisis de reglas relacionadas con cotizaciones, precios y márgenes.
+- Análisis y documentación de reglas de negocio.
 - Transformación de necesidades en requerimientos funcionales y no funcionales.
-- Definición funcional de la obtención automática de la cotización desde otro sistema.
-- Definición de la alternativa de carga manual de cotizaciones.
+- Definición funcional de la integración de información proveniente de otros sistemas.
 - Elaboración y refinamiento de historias de usuario.
-- Análisis de las métricas necesarias para evaluar el impacto sobre los márgenes de ganancia.
+- Análisis de las métricas necesarias para representar los diferentes escenarios.
 - Acompañamiento funcional durante el desarrollo del proyecto.
 - Participación en la review final y validación de la solución junto con los stakeholders.
 
@@ -169,36 +175,13 @@ Participé como Analista Funcional durante todo el ciclo del proyecto:
 - Requerimientos funcionales y no funcionales.
 - Historias de usuario.
 - Integración entre sistemas.
-- Análisis de datos provenientes de fuentes externas.
+- Análisis de información proveniente de distintas fuentes.
 - Modelado de escenarios de negocio.
 - Interacción y validación con stakeholders.
 - Acompañamiento funcional de punta a punta.
 
 ---
 
-## Sobre los casos presentados
-
-Los proyectos incluidos en este portfolio están orientados a mostrar diferentes aspectos de mi trabajo como Analista Funcional, incluyendo:
-
-- El contexto inicial.
-- El problema o necesidad detectada.
-- Mi participación dentro del proyecto.
-- El proceso de análisis realizado.
-- Las decisiones funcionales tomadas.
-- Los artefactos generados.
-- Los resultados obtenidos.
-
----
-
-## Confidencialidad
-
-Los casos presentados están basados en experiencias profesionales y académicas.
-
-Por razones de confidencialidad, la información fue anonimizada y, cuando corresponde, los artefactos fueron reconstruidos específicamente con fines de portfolio.
-
-No se incluyen nombres de organizaciones, personas, datos sensibles, documentación interna ni información confidencial perteneciente a terceros.
-
----
 ## Gestión de Alquileres de Locales
 
 **Empresa:** On City  
@@ -225,7 +208,7 @@ Debido a la importancia del proceso y al crecimiento del alcance funcional, el r
 Participé como Analista Funcional durante todo el ciclo del proyecto, con especial foco en las etapas de relevamiento y definición funcional:
 
 - Relevamiento inicial de necesidades junto con los stakeholders.
-- Análisis detallado del proceso de gestión de alquileres.
+- Análisis detallado del proceso.
 - Identificación de puntos de dolor y oportunidades de mejora.
 - Propuesta de mejoras sobre el flujo originalmente planteado.
 - Validación de las propuestas con los stakeholders.
@@ -252,7 +235,8 @@ Participé como Analista Funcional durante todo el ciclo del proyecto, con espec
 - Diseño funcional de una solución desde cero.
 
 ---
-## Migración de Procesos de Fideicomisos
+
+## Migración de Procesos Vinculados a Fideicomisos
 
 **Empresa:** On City  
 **Rol:** Analista Funcional
@@ -261,15 +245,15 @@ Participé como Analista Funcional durante todo el ciclo del proyecto, con espec
 
 Participé en un proyecto orientado a la migración de distintos procesos vinculados con la gestión de fideicomisos.
 
-El trabajo se desarrolló en tres fases principales, correspondientes a la **marcación, liquidación de fideicomisos y volcado final de la información**.
+El trabajo se desarrolló en **tres fases relacionadas entre sí**, que en conjunto conformaban un proceso integral.
 
 Cada etapa implicó comprender el funcionamiento de las soluciones existentes y acompañar su migración hacia nuevas versiones, procurando conservar las reglas de negocio necesarias y asegurar la continuidad del proceso completo.
 
 ### Principal desafío
 
-Uno de los principales desafíos fue abordar la migración como un proceso compuesto por diferentes etapas relacionadas entre sí.
+Uno de los principales desafíos fue abordar la migración como un proceso compuesto por diferentes etapas dependientes entre sí.
 
-El análisis funcional debía contemplar no solamente el funcionamiento particular de cada fase, sino también la relación y continuidad entre la marcación, la liquidación y el posterior volcado de la información.
+El análisis funcional debía contemplar no solamente el funcionamiento particular de cada fase, sino también la relación y continuidad de la información a lo largo del proceso.
 
 Al tratarse de migraciones, también fue necesario comprender el comportamiento de los sistemas existentes y reflejar correctamente las funcionalidades y reglas de negocio que debían mantenerse en las nuevas soluciones.
 
@@ -303,11 +287,36 @@ Mi participación estuvo enfocada principalmente en el análisis funcional y aco
 
 ---
 
+## Sobre los casos presentados
+
+Los proyectos incluidos en este portfolio están orientados a mostrar diferentes aspectos de mi trabajo como Analista Funcional, incluyendo:
+
+- El contexto inicial.
+- El problema o necesidad detectada.
+- Mi participación dentro del proyecto.
+- El proceso de análisis realizado.
+- Las decisiones funcionales tomadas.
+- Los artefactos generados.
+- Los resultados obtenidos.
+
+---
+
+## Confidencialidad
+
+Los casos presentados están basados en experiencias profesionales y académicas.
+
+Por razones de confidencialidad, la información fue anonimizada y simplificada cuando fue necesario. Los casos se describen exclusivamente a nivel funcional y general, con el objetivo de mostrar las responsabilidades y competencias aplicadas durante mi participación.
+
+No se incluyen nombres de clientes, sistemas internos, personas, datos sensibles, documentación propietaria, información comercial ni detalles específicos sobre procesos considerados confidenciales.
+
+Cuando corresponde, los ejemplos y artefactos presentados fueron reconstruidos exclusivamente con fines de portfolio.
+
+---
 
 ## Contacto
 
 **Lucio Sanfilippo**  
 Analista Funcional de Sistemas
 
-- LinkedIn: [Agregar enlace]
-- Email: [Agregar email]
+- [LinkedIn](https://www.linkedin.com/in/lucio-sanfilippo-analistafuncional/)
+- [Email](mailto:luciosanfi@gmail.com)
