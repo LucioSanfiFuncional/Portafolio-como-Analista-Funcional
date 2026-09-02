@@ -200,6 +200,60 @@ Por razones de confidencialidad, la información fue anonimizada y, cuando corre
 No se incluyen nombres de organizaciones, personas, datos sensibles, documentación interna ni información confidencial perteneciente a terceros.
 
 ---
+## Gestión de Alquileres de Locales
+
+**Empresa:** On City  
+**Rol:** Analista Funcional
+
+### Contexto
+
+Participé desde el inicio en el desarrollo de una nueva solución orientada a la gestión de alquileres de locales.
+
+El proyecto surgió inicialmente con un alcance acotado. Sin embargo, durante las distintas instancias de relevamiento fue posible profundizar sobre el proceso existente, identificar puntos de dolor y detectar oportunidades de mejora que no habían sido contempladas originalmente.
+
+A partir de este análisis, propuse diferentes mejoras sobre el flujo y las funcionalidades previstas. Las propuestas fueron evaluadas junto con los stakeholders y posteriormente incorporadas al alcance del proyecto.
+
+### Principal desafío
+
+Uno de los principales desafíos fue comprender en profundidad un proceso de negocio que inicialmente parecía relativamente simple, pero que durante el relevamiento presentó diferentes necesidades, excepciones y oportunidades de mejora.
+
+El análisis permitió ampliar la visión inicial del proyecto y definir una solución que no se limitara únicamente a digitalizar el proceso existente, sino que también buscara mejorar su funcionamiento.
+
+Debido a la importancia del proceso y al crecimiento del alcance funcional, el relevamiento tuvo una participación especialmente relevante durante todo el proyecto, con sucesivas instancias de análisis y validación junto con los stakeholders.
+
+### Mi participación
+
+Participé como Analista Funcional durante todo el ciclo del proyecto, con especial foco en las etapas de relevamiento y definición funcional:
+
+- Relevamiento inicial de necesidades junto con los stakeholders.
+- Análisis detallado del proceso de gestión de alquileres.
+- Identificación de puntos de dolor y oportunidades de mejora.
+- Propuesta de mejoras sobre el flujo originalmente planteado.
+- Validación de las propuestas con los stakeholders.
+- Ampliación y refinamiento del alcance funcional a partir de los hallazgos del relevamiento.
+- Identificación y documentación de reglas de negocio.
+- Transformación de necesidades en requerimientos funcionales y no funcionales.
+- Elaboración y refinamiento de historias de usuario.
+- Acompañamiento funcional durante el desarrollo.
+- Validación progresiva de las funcionalidades implementadas.
+- Participación en instancias de review con stakeholders.
+
+### Competencias aplicadas
+
+- Relevamiento y análisis de procesos.
+- Identificación de puntos de dolor.
+- Detección de oportunidades de mejora.
+- Propuesta de soluciones funcionales.
+- Gestión y refinamiento del alcance.
+- Análisis de reglas de negocio.
+- Requerimientos funcionales y no funcionales.
+- Historias de usuario.
+- Interacción y validación con stakeholders.
+- Acompañamiento funcional de punta a punta.
+- Diseño funcional de una solución desde cero.
+
+---
+
 
 ## Contacto
 
