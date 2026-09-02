@@ -127,7 +127,6 @@ Mi participación estuvo principalmente enfocada en el análisis funcional y aco
 
 ---
 
-### Proyecto 03 — Próximamente
 ## Gestión de Cotización y Márgenes para Artículos Importados
 
 **Empresa:** On City  
@@ -251,6 +250,56 @@ Participé como Analista Funcional durante todo el ciclo del proyecto, con espec
 - Interacción y validación con stakeholders.
 - Acompañamiento funcional de punta a punta.
 - Diseño funcional de una solución desde cero.
+
+---
+## Migración de Procesos de Fideicomisos
+
+**Empresa:** On City  
+**Rol:** Analista Funcional
+
+### Contexto
+
+Participé en un proyecto orientado a la migración de distintos procesos vinculados con la gestión de fideicomisos.
+
+El trabajo se desarrolló en tres fases principales, correspondientes a la **marcación, liquidación de fideicomisos y volcado final de la información**.
+
+Cada etapa implicó comprender el funcionamiento de las soluciones existentes y acompañar su migración hacia nuevas versiones, procurando conservar las reglas de negocio necesarias y asegurar la continuidad del proceso completo.
+
+### Principal desafío
+
+Uno de los principales desafíos fue abordar la migración como un proceso compuesto por diferentes etapas relacionadas entre sí.
+
+El análisis funcional debía contemplar no solamente el funcionamiento particular de cada fase, sino también la relación y continuidad entre la marcación, la liquidación y el posterior volcado de la información.
+
+Al tratarse de migraciones, también fue necesario comprender el comportamiento de los sistemas existentes y reflejar correctamente las funcionalidades y reglas de negocio que debían mantenerse en las nuevas soluciones.
+
+### Mi participación
+
+Mi participación estuvo enfocada principalmente en el análisis funcional y acompañamiento de las distintas fases de migración:
+
+- Análisis del funcionamiento de las soluciones existentes.
+- Relevamiento de las funcionalidades involucradas en cada etapa.
+- Identificación y análisis de reglas de negocio.
+- Definición de las funcionalidades necesarias para las nuevas versiones.
+- Elaboración y refinamiento de historias de usuario.
+- Documentación funcional de los procesos migrados.
+- Representación de flujos y comportamientos funcionales.
+- Acompañamiento al equipo durante la implementación.
+- Validación funcional de los cambios realizados.
+- Seguimiento de las diferentes fases hasta completar el proceso de migración.
+
+### Competencias aplicadas
+
+- Análisis funcional.
+- Migración de sistemas.
+- Análisis de sistemas legados.
+- Relevamiento de procesos.
+- Reglas de negocio.
+- Historias de usuario.
+- Modelado de flujos.
+- Documentación funcional.
+- Análisis de procesos compuestos por múltiples etapas.
+- Acompañamiento funcional durante la implementación.
 
 ---
 
