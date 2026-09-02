@@ -82,11 +82,51 @@ Durante el proyecto participé en distintas etapas del análisis funcional:
 
 ---
 
-### Proyecto 02 — Próximamente
+## Migración y Mejora de Sistema de Gestión de Deuda
 
-Breve descripción del proyecto.
+**Empresa:** On City  
+**Rol:** Analista Funcional
 
-[Ver proyecto](#)
+### Contexto
+
+Participé en la migración de un sistema utilizado para la gestión y negociación de deuda de clientes en mora.
+
+La solución estaba orientada principalmente a acompañar el proceso de negociación, permitiendo aplicar diferentes alternativas y niveles de descuento según las condiciones particulares de cada cliente.
+
+El proyecto consistió en reemplazar una versión anterior del sistema por una nueva solución, manteniendo las funcionalidades necesarias para la operación e incorporando mejoras funcionales durante el proceso de migración.
+
+### Principal desafío
+
+Uno de los principales desafíos fue comprender el funcionamiento del sistema existente y acompañar su evolución hacia una nueva versión sin perder las reglas de negocio necesarias para el proceso de negociación de deuda.
+
+Además de trasladar funcionalidades existentes, participé en el análisis y propuesta de mejoras sobre distintos comportamientos del sistema, buscando optimizar la operatoria y adaptar la nueva versión a las necesidades detectadas durante la implementación.
+
+### Mi participación
+
+Mi participación estuvo principalmente enfocada en el análisis funcional y acompañamiento de la migración:
+
+- Análisis del funcionamiento del sistema existente.
+- Identificación de funcionalidades necesarias para la nueva versión.
+- Análisis y propuesta de mejoras funcionales.
+- Participación en la implementación de la nueva solución.
+- Elaboración y refinamiento de historias de usuario.
+- Documentación funcional de los cambios realizados.
+- Elaboración de diagramas para representar los flujos y funcionalidades implementadas durante la migración.
+- Trabajo conjunto con el equipo para reflejar funcionalmente las modificaciones realizadas sobre el sistema.
+
+### Competencias aplicadas
+
+- Análisis funcional.
+- Migración de sistemas.
+- Análisis de sistemas legados.
+- Identificación de oportunidades de mejora.
+- Historias de usuario.
+- Reglas de negocio.
+- Modelado de flujos.
+- Documentación funcional.
+- Evolución de funcionalidades existentes.
+- Acompañamiento funcional durante la implementación.
+```
 
 ---
 
