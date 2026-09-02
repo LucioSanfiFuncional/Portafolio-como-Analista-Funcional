@@ -128,10 +128,52 @@ Mi participación estuvo principalmente enfocada en el análisis funcional y aco
 ---
 
 ### Proyecto 03 — Próximamente
+## Gestión de Cotización y Márgenes para Artículos Importados
 
-Breve descripción del proyecto.
+**Empresa:** On City  
+**Rol:** Analista Funcional
 
-[Ver proyecto](#)
+### Contexto
+
+Participé desde el inicio en un proyecto orientado a mejorar la gestión de precios de artículos importados, cuyo costo y margen de ganancia se ven afectados por las variaciones en la cotización del dólar.
+
+La solución debía permitir obtener automáticamente la cotización desde otro sistema y, al mismo tiempo, brindar al usuario la posibilidad de ingresar una cotización de forma manual cuando fuera necesario.
+
+A partir de estos valores, el sistema ofrecía información sobre el impacto de la cotización en los márgenes de ganancia de los artículos importados, facilitando el análisis previo a una posible modificación de precios.
+
+### Principal desafío
+
+Uno de los principales desafíos fue transformar una necesidad de negocio vinculada a la variación del tipo de cambio en una solución funcional que permitiera combinar información proveniente de otro sistema con valores ingresados manualmente por los usuarios.
+
+Además, era necesario definir cómo presentar el impacto de las distintas cotizaciones sobre los márgenes de los productos, de forma que los usuarios contaran con información suficiente para evaluar si correspondía aumentar, reducir o mantener los precios.
+
+### Mi participación
+
+Participé como Analista Funcional durante todo el ciclo del proyecto:
+
+- Relevamiento inicial con los stakeholders.
+- Identificación y análisis de necesidades de negocio.
+- Análisis de reglas relacionadas con cotizaciones, precios y márgenes.
+- Transformación de necesidades en requerimientos funcionales y no funcionales.
+- Definición funcional de la obtención automática de la cotización desde otro sistema.
+- Definición de la alternativa de carga manual de cotizaciones.
+- Elaboración y refinamiento de historias de usuario.
+- Análisis de las métricas necesarias para evaluar el impacto sobre los márgenes de ganancia.
+- Acompañamiento funcional durante el desarrollo del proyecto.
+- Participación en la review final y validación de la solución junto con los stakeholders.
+
+### Competencias aplicadas
+
+- Relevamiento de requerimientos.
+- Análisis funcional.
+- Reglas de negocio.
+- Requerimientos funcionales y no funcionales.
+- Historias de usuario.
+- Integración entre sistemas.
+- Análisis de datos provenientes de fuentes externas.
+- Modelado de escenarios de negocio.
+- Interacción y validación con stakeholders.
+- Acompañamiento funcional de punta a punta.
 
 ---
 
