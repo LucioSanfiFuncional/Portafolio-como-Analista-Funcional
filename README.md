@@ -32,6 +32,29 @@ Este portfolio reúne una selección de proyectos y casos en los que participé,
 - Validación de soluciones.
 
 ---
+## Docencia, Automatización e Inteligencia Artificial
+
+Además de mi experiencia profesional como Analista Funcional, me desempeño como **docente en Coderhouse**, participando en la formación de estudiantes en distintas temáticas vinculadas con tecnología y desarrollo de soluciones digitales.
+
+Entre los contenidos que dicto se encuentra la **automatización de procesos utilizando n8n y Make**, trabajando con integraciones entre sistemas, APIs, lógica condicional y modelos de lenguaje.
+
+### Experiencia aplicada
+
+- Diseño de workflows de automatización.
+- Automatización de procesos mediante n8n y Make.
+- Integración de servicios mediante APIs.
+- Utilización de modelos de lenguaje dentro de flujos automatizados.
+- Clasificación y procesamiento de información mediante IA.
+- Generación de contenido a partir de modelos de lenguaje.
+- Diseño de flujos condicionales basados en respuestas de modelos de IA.
+- Persistencia y procesamiento de datos dentro de automatizaciones.
+- Manejo de errores y seguimiento de ejecuciones.
+- Explicación y transmisión de conceptos técnicos a perfiles con diferentes niveles de conocimiento.
+
+### Valor para mi perfil como Analista Funcional
+
+Esta experiencia complementa mi trabajo como Analista Funcional, permitiéndome comprender no solamente las necesidades y reglas de negocio, sino también evaluar cómo determinadas tareas y procesos pueden ser automatizados mediante integraciones, APIs y herramientas de Inteligencia Artificial.
+---
 
 ## Proyectos
 
